@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BroadcastReceiver</string>
+    <string name="initial_text">Turn the screen on and off to send broadcast</string>
+    <string name="download_text">Shuttle is getting ready...</string>
+    <string name="success_text">Shuttle is taking off!</string>
+    <string name="error_text">Error occurred, sorry for inconvenience</string>
+</resources>
